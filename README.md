@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+Developer;Turning+Data+to+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+Developer;Data+Storytelling" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -21,8 +21,8 @@ My work centers on building practical, user-driven dashboards, automating repeti
       
 ## 🔭 What I'm Currently Working On 
 
-- **Cloud-Based Sales Analytics Pipeline (AWS)** [Built a serverless AWS data pipeline that automates sales data ingestion, transformation, and analytics to support faster, data-driven business decisions.]  
-- **Real-Time Order & Inventory Analytics Platform** [Build a real-time analytics platform that streams order events into a cloud data warehouse and delivers up-to-date operational insights to business users.]
+- **Cloud-Based Sales Analytics Pipeline (AWS)** [Building a serverless AWS data pipeline that automates sales data ingestion, transformation, and analytics to support faster, data-driven business decisions.]  
+- **Real-Time Order & Inventory Analytics Platform** [Building a real-time analytics platform that streams order events into a cloud data warehouse(Snowflake) and delivers up-to-date operational insights to business users.]
 
 ## 🌱 Currently Learning 
 
