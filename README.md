@@ -13,25 +13,21 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I am a data analyst who helps organizations make better decisions by turning complex data into clear, actionable insight. My strength lies in bridging the gap between raw data and business strategy, ensuring leaders have the clarity they need to act with confidence.
+My work centers on building practical, user-driven dashboards, automating repetitive processes to improve efficiency, and developing analytical models that support planning and strategic growth. I prioritize solutions that are not only technically sound but also adopted and trusted by stakeholders.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://KepherAsh.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Cloud-Based Sales Analytics Pipeline (AWS)** [Built a serverless AWS data pipeline that automates sales data ingestion, transformation, and analytics to support faster, data-driven business decisions.]  
+- **Real-Time Order & Inventory Analytics Platform** [Build a real-time analytics platform that streams order events into a cloud data warehouse and delivers up-to-date operational insights to business users.]
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [Snowflake Cloud data warehousing]
+- [AWS Cloud Services]
 
 ## 🛠️ Technical Skillset
 
@@ -52,8 +48,8 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Executive%20Insights-4CAF50?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/Business%20Intelligence%20%26%20Analytics-Data%20Driven-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
