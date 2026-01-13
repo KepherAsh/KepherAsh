@@ -14,7 +14,7 @@
 
 ## 🚀 About Me 
 I am a data analyst who helps businesses make better decisions by turning complex data into clear, actionable insights. My strength lies in bridging the gap between raw data and business strategy, ensuring leaders and stakeholders have the clarity they need to act with confidence.
-My work focuses on transforming well-engineered data into actionable business intelligence through automated analytics workflows, intuitive dashboards, that support planning and strategic decision-making. I prioritize clarity, accuracy, and usability—delivering insights that are trusted, adopted, and embedded into everyday business decisions.
+My work focuses on transforming well-engineered data into actionable business intelligence through automated analytics workflows, intuitive dashboards, that support planning and strategic decision-making. I prioritize clarity, accuracy, and usability delivering insights that are trusted, adopted, and embedded into everyday business decisions.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://KepherAsh.github.io/)
