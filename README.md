@@ -43,13 +43,13 @@ My work centers on building practical, user-driven dashboards, automating repeti
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Data%20Storytelling-Executive%20Insights-4CAF50?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Business%20Intelligence%20%26%20Analytics-Data%20Driven-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Insights-4CAF50?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Advanced-1E88E5?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Business%20Intelligence-Analytics-6A1B9A?style=flat&logo=powerbi&logoColor=white">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
