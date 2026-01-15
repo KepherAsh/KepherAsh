@@ -17,7 +17,7 @@ I am a data analyst who helps businesses make better decisions by turning comple
 My work focuses on transforming well-engineered data into actionable business intelligence through automated analytics workflows, intuitive dashboards, that support planning and strategic decision-making. I prioritize clarity, accuracy, and usability delivering insights that are trusted, adopted, and embedded into everyday business decisions.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://KepherAsh.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://kepherash.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
